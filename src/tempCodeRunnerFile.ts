@@ -1,0 +1,1 @@
+    const endYear = c.dissolved ?? currentYear;
